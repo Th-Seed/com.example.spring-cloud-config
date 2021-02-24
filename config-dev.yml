@@ -1,3 +1,2 @@
 config:
-  test01: this is test01
-  test02: this is test02  
+  info: "this is dev environment"  
